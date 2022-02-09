@@ -39,11 +39,12 @@ header .logo
 }
 .toggle.active
 {
-  background: url(https://i.ibb.co/rt3HybH/close.png);
+  background: url(https://ibb.co/61FB0Vs); /* Need to fix this */
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
   cursor: pointer;
+  /* filter: invert(1); */
 }
 .showcase
 {
