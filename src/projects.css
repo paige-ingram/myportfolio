@@ -39,12 +39,11 @@ header .logo
 }
 .toggle.active
 {
-  background: url(https://i.ibb.co/qMJTGs6/1200px-Visual-Editor-Icon-Close-white-svg.png);
+  background: url(https://i.ibb.co/rt3HybH/close.png);
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
   cursor: pointer;
-  transform: scale(4);
 }
 .showcase
 {
