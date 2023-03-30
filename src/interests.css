@@ -58,6 +58,8 @@ header .logo
   transition: 0.5s;
   z-index: 2;
   background: url("static/interests.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .showcase.active
 {

@@ -57,7 +57,10 @@ header .logo
   align-items: center;
   transition: 0.5s;
   z-index: 2;
-  background: black;
+  /* background: #003384; */
+  background: url(static/experience.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .showcase.active
 {

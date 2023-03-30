@@ -58,6 +58,9 @@ header .logo
   background: #111;
   transition: 0.5s;
   z-index: 2;
+  background: url(static/contact.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .showcase.active
 {

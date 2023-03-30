@@ -58,6 +58,8 @@ header .logo
   background: #111;
   transition: 0.5s;
   z-index: 2;
+  background: url("static/code.jpg");
+  background-size: 100%;
 }
 .showcase.active
 {
